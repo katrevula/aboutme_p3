@@ -18,7 +18,7 @@ This is My First Webpage..Will get keep on updated
 - [Git](https://github.com/trending): Git is a free and open source distributed version control system.
 - [W3Schools](https://www.w3schools.com/ "W3Schools HTML") When learning HTML and CSS in High School this site provided a majority of solutions to questions I had come up.
 - [WordPress](https://wordpress.com/ "WordPress - homepage"): WordPress is a 'anyone can use' simplified website publishing program.
-[Using Ajax and API's](https://www.youtube.com/watch?v=fEYx8dQr_cQ/)
+- [Using Ajax and API's](https://www.youtube.com/watch?v=fEYx8dQr_cQ/)
 - [Qunit](https://qunitjs.com/cookbook/)
 
 ## Contributers
