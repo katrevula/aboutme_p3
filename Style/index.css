@@ -18,7 +18,7 @@ h3{
 
     background-image: url(https://github.com/katrevula/aboutme/raw/master/photos/IMG_20190113_225411.jpg);
     background-repeat: no-repeat;
-    background-size:  100% 100%;
+    background-size:  cover cover;
 }
 .head1-back
 {
@@ -165,6 +165,13 @@ ul{
     border-radius: 2em;
   border-style: solid;  */   
 }
+
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
 
 
 
